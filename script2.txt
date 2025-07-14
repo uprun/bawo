@@ -1,0 +1,44 @@
+Hello 
+ Hello 
+I like to code in JS
+ Javascript
+  wait wait wait
+I do know about OOP inheritance incapsulation and SOLID and other stuff
+ I do program in one of the mainstream compilable programming languages for my daily job
+  I do know what kind of bugs can prevent type checker
+   I also know how code becomes rigid to change
+
+so I do prefer dynamic interpretation and REPL-style programming like in Lisp or Python or Smalltalk
+  [Read Eval Print Loop]
+
+I like to run my code for different scenarios 
+ and 
+I am impatient
+  ... and compile time just gets in a way
+   so it is better when it is absent
+
+   web-browser is my REPL now
+
+so in this video
+ I decided I will announce the simplest bare-minimum web-browser development project
+  in Javascript
+   with Raylib
+    name is Bawo 
+      short for Bawowna // my previous attempt in Golang
+ 
+ so stay tuned
+
+    [Demo]
+
+    Post Scriptum 
+     this time I have a script but I am short on time so no fancy video
+
+     Thank you for all the sponsors on Patreon
+
+        Alexander Obenauer
+        Justin Shaffner
+
+   
+
+
+   
